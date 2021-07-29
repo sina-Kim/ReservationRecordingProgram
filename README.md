@@ -7,13 +7,13 @@
 
 ## Preview
 - main window
-- 
+
 ![main window](./images/1.png)
 
 - reservation manage dialog
-- 
+
 ![reservation manage dialog](./images/2.png)
 
 - reservation add dialog
-- 
+
 ![reservation add dialog](./images/3.png)
